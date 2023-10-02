@@ -1,0 +1,132 @@
+¿Cuál es la diferencia entre un hacker y un cibercriminal?
+    La diferencia entre un hacker y un cibercriminal radica en sus intenciones y acciones. Si bien ambos términos a menudo se usan indistintamente, tienen connotaciones distintas.
+
+    Características de un Hacker
+    Un hacker es una persona con habilidades técnicas avanzadas en informática y tecnología, el cual tiene diferentes motivaciones y enfoques en función de sus objetivos.
+    El término “hacker” no necesariamente implica actividades ilegales o maliciosas. De hecho, muchos hackers se dedican al “hacking ético”, que consiste en identificar y abordar vulnerabilidades en sistemas y redes con el propósito de mejorar la seguridad.
+    Los hackers pueden clasificarse en distintos tipos según sus intereses y enfoques, como los hackers blancos (éticos), los hackers grises (que pueden realizar actividades legales o ilegales dependiendo de la situación) y los hackers negros (maliciosos).
+    Características de un Cibercriminal:
+    Un cibercriminal es una persona que utiliza sus habilidades técnicas para llevar a cabo actividades ilegales, maliciosas o fraudulentas en el ámbito digital.
+    Los cibercriminales tienen la intención de causar daño, robar información, cometer fraude o realizar actividades ilegales en línea, como el robo de datos personales, el ransomware, el phishing y más.
+    Las acciones de los cibercriminales están motivadas por ganancias financieras o por otros objetivos maliciosos.
+    Las actividades de los cibercriminales son ilegales y pueden resultar en sanciones legales y penales.
+    ¿Cuáles son los tipos de ataques que realiza un cibercriminal?
+    Según la intención y el nivel de daño o intrusión que causa el ataque se pueden clasificar entre ataques no agresivos, como el defacement, y los ataques agresivos, como Pegasus.
+
+    Defacement un ataque no agresivo
+
+    Defacement se refiere a la práctica de modificar el contenido de un sitio web o plataforma en línea sin necesariamente comprometer los datos o realizar daños significativos. El objetivo principal del defacement suele ser enviar un mensaje, expresar una opinión o llamar la atención sobre un tema específico. Puede ser un acto de protesta o activismo digital.
+
+    Aunque el defacement puede ser molesto y perjudicial para la reputación de un sitio web, generalmente no implica el acceso o robo de datos confidenciales ni un impacto técnico más allá del contenido visible.
+
+    Pegasus y otros malwares avanzados de ataques agresivos
+
+    Los ataques agresivos, como el malware Pegasus, son mucho más sofisticados y maliciosos en comparación con el defacement. Pegasus es un software espía avanzado desarrollado para infiltrarse en dispositivos móviles y obtener acceso completo al contenido y las comunicaciones del dispositivo, incluidos mensajes, correos electrónicos, llamadas y más.
+
+    Estos ataques pueden tener graves implicaciones para la privacidad y la seguridad de los individuos y las organizaciones, ya que el malware puede robar información sensible y llevar a cabo actividades de vigilancia no autorizada.
+
+¿Cuál es el objetivo de la ciberseguridad?
+    El objetivo principal de la ciberseguridad es proteger los sistemas informáticos, redes, dispositivos y datos contra amenazas cibernéticas y ataques maliciosos. La ciberseguridad busca salvaguardar la integridad, confidencialidad y disponibilidad de la información digital y la infraestructura tecnológica en un mundo cada vez más conectado y digitalizado.
+
+    Las 7 capas del Modelo OSI
+    El modelo OSI (Open Systems Interconnection) es un marco conceptual desarrollado por la Organización Internacional de Normalización (ISO) que divide las funciones de comunicación de red en siete capas. Cada capa tiene un propósito específico y define un conjunto de protocolos y estándares que ayudan a garantizar la interoperabilidad y la comunicación efectiva entre dispositivos de red. Las siete capas del modelo OSI son:
+
+    Capa 1: Capa Física
+    Esta capa se encarga de las características físicas de la transmisión de datos, como los medios de transmisión (cables, fibra óptica, etc.), la topología y la señalización eléctrica. Define detalles técnicos como voltajes, velocidades de transmisión y conectores físicos.
+
+    Capa 2: Capa de Enlace de Datos
+    Esta capa se ocupa de la transmisión confiable de datos a través de un enlace físico. Proporciona direccionamiento MAC (Media Access Control), control de flujo y detección de errores para garantizar que los datos se entreguen correctamente entre dispositivos directamente conectados.
+
+    Capa 3: Capa de Red
+    La capa de red se encarga de enrutar los datos a través de una red y de gestionar el direccionamiento lógico (direcciones IP). Los routers operan en esta capa para tomar decisiones de enrutamiento y reenvío de paquetes.
+
+    Capa 4: Capa de Transporte
+    La capa de transporte proporciona la comunicación de extremo a extremo y garantiza que los datos se entreguen sin errores y en el orden correcto.Protocolos como TCP (Transmission Control Protocol) y UDP (User Datagram Protocol) operan en esta capa.
+
+    Capa 5: Capa de Sesión
+    La capa de sesión establece, mantiene y finaliza conexiones entre aplicaciones en diferentes dispositivos. Controla el diálogo entre las aplicaciones y puede manejar la sincronización y recuperación en caso de fallos.
+
+    Capa 6: Capa de Presentación
+    La capa de presentación se encarga de la conversión, codificación y compresión de datos para que sean comprensibles para las aplicaciones. También se ocupa de la encriptación y la compresión de datos.
+
+    Capa 7: Capa de Aplicación
+    La capa de aplicación es la capa más cercana al usuario y contiene las aplicaciones y servicios con los que interactúa directamente. Incluye protocolos y servicios que permiten funciones como el correo electrónico, la navegación web y la transferencia de archivos.
+
+    Cada capa del modelo OSI descompone las funciones de comunicación de red en componentes más manejables y definidos, lo que facilita el diseño, la implementación y la depuración de sistemas de comunicación en red.
+
+    ¿Qué es la capa 8 del Modelo OSI?
+    El modelo OSI oficialmente consta de siete capas, pero a lo largo de los años, los profesionales de TI han bromeado sobre la existencia de una “Capa 8” que se refiere a aspectos como la política, la administración, la comunicación humana y otros factores que influyen en la implementación y operación de redes y sistemas.
+
+    Aunque no es parte del modelo OSI oficial, la referencia a la “Capa 8” resalta la importancia de factores como la comunicación efectiva, la toma de decisiones, la gestión de equipos y otros elementos relacionados con la administración y el entorno en el que se implementan las tecnologías de red.
+
+¿Qué tipos de malware existen?
+    Existen varios tipos de malware, que son programas maliciosos diseñados para dañar, acceder sin autorización o tomar el control de sistemas informáticos. Algunos de los tipos más comunes de malware son:
+
+    Virus: Son programas que se adjuntan a archivos legítimos y se replican cuando los archivos se ejecutan. Los virus pueden dañar o destruir datos, programas y sistemas.
+    Gusanos: A diferencia de los virus, los gusanos no necesitan archivos anfitriones y pueden propagarse automáticamente a través de redes y sistemas conectados. Se duplican a sí mismos para infectar otros sistemas.
+    Troyanos: Estos programas se disfrazan de software legítimo para engañar a los usuarios y hacer que los instalen. Una vez instalados, los troyanos pueden abrir puertas traseras en el sistema, permitiendo a los atacantes acceder y controlar el sistema de forma remota.
+    Ransomware: Este tipo de malware cifra los datos del usuario y exige un rescate para desbloquearlos. Si el rescate no se paga, los datos pueden ser perdidos o dañados permanentemente.
+    Spyware: Diseñado para recopilar información del usuario sin su conocimiento o consentimiento. Puede rastrear actividades en línea, robar contraseñas y datos personales, y transmitirlos a terceros.
+    Adware: Muestra anuncios no deseados en forma de ventanas emergentes, banners u otros medios. Aunque no es tan destructivo como otros tipos de malware, puede ser molesto y ralentizar el sistema.
+    Keyloggers: Estos programas registran las pulsaciones de teclas de un usuario, lo que permite a los atacantes capturar contraseñas, información financiera y otros datos confidenciales.
+    Botnets: Un conjunto de dispositivos infectados y controlados remotamente por un atacante. Los botnets se utilizan a menudo para llevar a cabo ataques distribuidos de denegación de servicio (DDoS) u otras actividades maliciosas.
+    Rootkits: Son conjuntos de herramientas y programas diseñados para ocultar la presencia del malware en un sistema. Pueden modificar el sistema operativo para que el malware sea difícil de detectar y eliminar.
+    Malvertising: Consiste en insertar malware en anuncios en línea legítimos. Cuando un usuario hace clic en el anuncio, puede dirigirse a un sitio web malicioso o iniciar la descarga de malware.
+    Fileless Malware: Este tipo de malware reside en la memoria del sistema y no en archivos físicos. Es más difícil de detectar y puede evadir muchas soluciones de seguridad tradicionales.
+    RATs (Remote Access Trojans): Son troyanos que permiten a los atacantes controlar remotamente una computadora infectada. Pueden utilizarse para robar datos, controlar la cámara y el micrófono, y realizar otras actividades maliciosas.
+    Estos son solo algunos ejemplos de los numerosos tipos de malware que existen. La ciberseguridad es crucial para protegerse contra estas amenazas y se recomienda utilizar software de seguridad actualizado y mantenerse informado sobre las mejores prácticas de seguridad en línea.
+
+Cómo afecta la Inteligencia Artificial la ciberseguridad
+    La inteligencia artificial (IA) puede ser utilizada de diversas formas para llevar a cabo ataques cibernéticos más sofisticados y eficaces. Ya sea por medio de la automatización de los procesos de ataque o la personalización de ataques a través de la información recopilada sobre las víctimas.
+
+    7 acciones para mantenerte seguro de un ciber ataque con Inteligencia Artificial:
+    Mantén tus Sistemas Actualizados: Mantén tus sistemas operativos, aplicaciones y dispositivos actualizados con los últimos parches de seguridad. Las actualizaciones a menudo corrigen vulnerabilidades conocidas que los atacantes podrían aprovechar.
+    Implementa Soluciones de Seguridad: Utiliza software de seguridad actualizado que incluya capacidades de detección de amenazas basadas en IA. Estas soluciones pueden identificar patrones y comportamientos anómalos para detectar ataques cibernéticos.
+    Fortalece tus Contraseñas: Utiliza contraseñas fuertes y únicas para todas tus cuentas. Considera el uso de un gestor de contraseñas para administrarlas de manera segura.
+    Autenticación de Dos Factores (2FA): Habilita la autenticación de dos factores siempre que sea posible. Esto agrega una capa adicional de seguridad a tus cuentas en línea.
+    Educación en Ciberseguridad: Fomenta la concienciación sobre ciberseguridad entre tus empleados, colegas y familiares. Enséñales a identificar correos electrónicos de phishing y otras tácticas de ingeniería social.
+    Verifica Remitentes: Siempre verifica la legitimidad de los correos electrónicos y mensajes antes de hacer clic en enlaces o descargar archivos adjuntos. No confíes en la apariencia del remitente, ya que los atacantes pueden suplantar direcciones de correo electrónico.
+    Evita Fuentes No Confiables: No descargues software o archivos adjuntos de fuentes no confiables. Utiliza sitios web y tiendas de aplicaciones oficiales y verifica las revisiones y calificaciones antes de descargar.
+
+¿Qué es la ingeniería social?
+    La ingeniería social es una táctica utilizada por los atacantes cibernéticos para manipular y engañar a las personas con el fin de obtener información confidencial, acceso a sistemas o realizar acciones no autorizadas. La ingeniería social explota las debilidades humanas, como la confianza, la curiosidad y la falta de conciencia sobre riesgos de seguridad y existen 2 métodos principales que se explican a continuación.
+
+    Phishing
+    Es una forma de ataque cibernético en la que los ciberdelincuentes intentan engañar a las personas para que revelen información confidencial, como contraseñas, números de tarjetas de crédito, información bancaria u otra información personal sensible. Todo esto para ser utilizada con el fin de cometer fraudes, robos de identidad u otras actividades delictivas.
+
+    El término “phishing” proviene de la similitud con la palabra “fishing” (pesca, en inglés), ya que los atacantes lanzan “anzuelos” (mensajes engañosos) con la esperanza de que las víctimas “muerdan” y compartan información.
+
+    Las técnicas de phishing pueden incluir:
+
+    Correo Electrónico: Los correos electrónicos de phishing son muy comunes. Los atacantes envían mensajes que parecen legítimos y solicitan a las víctimas que hagan clic en enlaces maliciosos, descarguen archivos adjuntos infectados o proporcionen información personal.
+    Sitios Web Falsos: Los atacantes crean sitios web falsos que imitan la apariencia de sitios legítimos para robar información cuando las víctimas ingresan sus credenciales.
+    SMS y Mensajes de Texto: Los atacantes envían mensajes de texto fraudulentos que intentan dirigir a las víctimas a sitios web falsos o a proporcionar información personal.
+    Redes Sociales: Los atacantes pueden crear perfiles falsos en redes sociales para establecer comunicación y engañar a las víctimas.
+    Voz y Llamadas Telefónicas: Algunos ataques de phishing también involucran llamadas telefónicas en las que los atacantes se hacen pasar por representantes de empresas legítimas y solicitan información confidencial.
+    Aplicaciones de Mensajería Instantánea: Los atacantes pueden utilizar aplicaciones de mensajería para enviar mensajes engañosos y engañar a las víctimas para que compartan información.
+    Spear Phishing
+    El spear phishing es una forma más dirigida y personalizada de ataque cibernético que se basa en técnicas de phishing. Para lograr su objetivo los atacantes investigan a fondo a sus víctimas, esto implica recopilar detalles personales, conexiones profesionales, actividades en línea y cualquier otra información que pueda hacer que el mensaje parezca más auténtico y creíble.
+
+    Algunos aspectos clave del spear phishing incluyen:
+
+    Investigación: Los atacantes recopilan información detallada sobre la víctima, como nombres, cargos, conexiones en redes sociales, intereses y cualquier otra información que pueda ser utilizada para personalizar el mensaje.
+    Personalización: Basándose en la información recopilada, los atacantes personalizan el mensaje para que parezca que proviene de una fuente confiable y relevante para la víctima.
+    Engaño: Los mensajes de spear phishing suelen utilizar tácticas de ingeniería social altamente persuasivas para incitar a la víctima a tomar una acción específica, como hacer clic en un enlace malicioso, descargar un archivo adjunto infectado o proporcionar información confidencial.
+    Fuentes Confiables: Los atacantes a menudo se hacen pasar por colegas, superiores, proveedores o entidades de confianza para ganarse la confianza de la víctima.
+    Uso de Nombres y Detalles Reales: Los mensajes de spear phishing pueden incluir nombres reales, detalles específicos de la empresa o detalles sobre actividades recientes de la víctima para hacer que el mensaje parezca más legítimo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
